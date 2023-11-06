@@ -1,13 +1,8 @@
-s = 'AAABBBBCCCCCCCCCDA'
-#output = 3A3B3C
+#lex_auth_012693816331657216161
 
-n = len(s) - 1
+def encode(message):
+    return
 
-f = s[0]
-for i in s:
-    if(f != i):
-        print(s.count(f), end="")
-        print(f, end="")
-    f = i
-print(s.count(s[n]), end="")
-print(f)
+#Provide different values for message and test your program
+encoded_message=encode("ABBBBCCCCCCCCAB")
+print(encoded_message)
