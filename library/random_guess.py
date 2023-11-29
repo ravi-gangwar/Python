@@ -17,4 +17,4 @@ while(jackpot!=user):
 
     attempt+=1
 
-print("Congrats!!!! You Guess the Number. Your Attemps are: ",attempt, ",Jackpot number: ",jackpot)
+print("Congrats!!!! You Guess the Number. Your Attemps are: ",attempt, "/nJackpot number: ",jackpot)
