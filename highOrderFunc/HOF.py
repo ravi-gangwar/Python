@@ -12,3 +12,5 @@ result = operation(square, 5)
 print(result)
 result = operation(cube, 5)
 print(result)
+
+
